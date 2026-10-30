@@ -1,0 +1,6 @@
+{
+  "key.playerhitbox.toggle": "Вкл/выкл хитбоксы игроков",
+  "key.categories.playerhitbox.controls": "Player Hitbox",
+  "message.playerhitbox.enabled": "Хитбоксы игроков: ВКЛ",
+  "message.playerhitbox.disabled": "Хитбоксы игроков: ВЫКЛ"
+}

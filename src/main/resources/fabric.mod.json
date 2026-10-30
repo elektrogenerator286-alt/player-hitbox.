@@ -1,0 +1,21 @@
+{
+	"schemaVersion": 1,
+	"id": "playerhitbox",
+	"version": "${version}",
+	"name": "Player Hitbox",
+	"description": "Shows the hitboxes of nearby players, including through blocks.",
+	"authors": [],
+	"license": "MIT",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.example.playerhitbox.PlayerHitboxClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "=1.21.11",
+		"java": ">=21",
+		"fabric-api": ">=0.141.6"
+	}
+}

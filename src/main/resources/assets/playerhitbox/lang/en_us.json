@@ -1,0 +1,6 @@
+{
+  "key.playerhitbox.toggle": "Toggle Player Hitboxes",
+  "key.categories.playerhitbox.controls": "Player Hitbox",
+  "message.playerhitbox.enabled": "Player hitboxes: ON",
+  "message.playerhitbox.disabled": "Player hitboxes: OFF"
+}
